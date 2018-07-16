@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CMP-1036-04404-1 New DesignItemId=CMP-1036-04407-1
+Change Component Description : Designator=C2 Old Description=CAP 100nF 16V ±20% 0805 (2012 Metric) Thickness 1.45mm SMD New Description=CAP 100nF 16V -20% to +80% 0805 (2012 Metric) Thickness 1mm SMD
+Change component parameters: Designator = "C2"; Footprint = "CAPC0805(2012)145_M"; UniqueID = "\GCNDFSAO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "1 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "-20% to +80%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
